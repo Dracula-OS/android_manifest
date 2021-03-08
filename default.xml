@@ -835,7 +835,7 @@
 
   <include name="snippets/remove.xml" />
 
-  <include name="snippets/havoc.xml" />
+  <include name="snippets/dracula.xml" />
   <include name="snippets/lineage.xml" />
 
 </manifest>
