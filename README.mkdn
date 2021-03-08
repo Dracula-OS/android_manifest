@@ -17,7 +17,7 @@ To create them run:
 
 ```bash
    mkdir -p ~/bin
-   mkdir -p ~/havoc
+   mkdir -p ~/draculaos
 ```
 
 Install the Repository
@@ -31,7 +31,7 @@ You may need to reboot for these changes to take effect.
 Now enter the following to initialize the repository:
 
 ```bash
-   cd ~/havoc
+   cd ~/draculaos
 ```
 
 
